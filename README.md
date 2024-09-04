@@ -15,7 +15,7 @@
     
     6) Reject packets that pretend to be originating from your loopback address
     
-    7) Allow only access to google.com and the European University from your browser. Log    any other movement of packets as well as any unauthorized access to web pages.
+    7) Allow only access to google.com and the European University from your browser. Log any other movement of packets as well as any unauthorized access to web pages.
     
     8) Allow your pc to send ICMP packets
     
